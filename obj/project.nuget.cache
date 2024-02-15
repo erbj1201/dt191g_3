@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5XV+jIXQJLolSLLFCPhppNKbsqvFOfKO1EM3SrmDp0BSmevGdidYk5n0ig8z0FgaOaUJsMslQTZwTDGQ8Vgeg==",
+  "dgSpecHash": "WwbOaRzNqk5wiPTIXfqapz4Svcvs2ZgFGSFp9rHQdjZ17N89bz4LrzwXXjHc1JreNbCcwNiORpTa0Z3SBhv9og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\BookDirectory.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\BookDirectory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

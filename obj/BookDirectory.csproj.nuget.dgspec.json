@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\BookDirectory.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\BookDirectory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\BookDirectory.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\BookDirectory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\BookDirectory.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\BookDirectory.csproj",
         "projectName": "BookDirectory",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\BookDirectory.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\BookDirectory.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\Webbutveckling\\dt191g_webbutveckling_med_.NET\\moment_3\\BookDirectory\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Skrivbord\\tettetagaga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
